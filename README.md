@@ -1,2 +1,2 @@
 # xobfuscator
-Good obfuscator support >>> Kali Linux & Mobile
+Good obfuscator support >>> Kali Linux
